@@ -1,0 +1,32 @@
+
+.homepage{
+    background-color: rgb(240, 240, 240);
+}
+.category{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: white;
+    
+   
+}
+.category1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: white;
+    margin-top: 20px;
+   
+}
+.cat_img{
+    width: 64px;
+    height: 64px;
+}
+.cat{
+    justify-content: space-between;
+}
+.cat_title{
+    width: 100px;
+    font-size: 12px;
+    font-weight: bold;
+}
